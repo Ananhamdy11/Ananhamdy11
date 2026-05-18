@@ -68,23 +68,7 @@
 - Firebase
 ````
 
----
 
-# 📱 Featured Projects
-
-<div align="center">
-
-| Project                  | Description                                           |
-| ------------------------ | ----------------------------------------------------- |
-| 🎓 LMS Platform          | Educational platform with courses & progress tracking |
-| 🛒 E-Commerce App        | Responsive shopping application                       |
-| 💬 Chat Application      | Real-time messaging app                               |
-| 📚 Educational Dashboard | Admin dashboard for learning systems                  |
-| 🎨 UI Components Library | Reusable modern UI components                         |
-
-</div>
-
----
 
 # 📊 GitHub Stats
 
