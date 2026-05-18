@@ -104,13 +104,11 @@
 
 ---
 
-# 🐍 Snake Animation
-
-<div align="center">
+## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Ananhamdy11/Ananhamdy11/blob/output/github-contribution-grid-snake.svg)
+```
 
-</div>
 
 ---
 
