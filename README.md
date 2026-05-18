@@ -1,21 +1,172 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter & Frontend applications<br>🌱 I’m learning advanced Flutter, UI/UX & clean architecture<br>👯 I’m looking to collaborate on web & mobile projects<br>💬 Ask me about Flutter, Dart, HTML, CSS, JavaScript<br>⚡ Fun fact: I enjoy turning designs into real, interactive products<br>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Ananhamdy11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/anan-hamdy-b2a6ba203) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananhamdy1911@gmail.com) 
+# 💜 Anan Hamdy
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ananhamdy11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ananhamdy11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananhamdy11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Flutter+Developer;Frontend+Developer;UI%2FUX+Enthusiast;Clean+Architecture+Learner;Building+Interactive+Experiences)](https://git.io/typing-svg)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ananhamdy11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+✨ Passionate Flutter & Frontend Developer  
+🎨 Turning UI designs into real interactive products  
+📱 Building responsive mobile & web applications  
+🧠 Currently learning Advanced Flutter & Clean Architecture  
+💡 Interested in UI/UX and smooth user experiences  
+⚡ Always exploring modern technologies  
+
+<br clear="right"/>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/anan-hamdy-b2a6ba203">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ananhamdy1911@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://bsky.app/profile/Ananhamdy11">
+  <img src="https://img.icons8.com/fluency/48/bluesky.png"/>
+</a>
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,js,html,css,python,cs,figma,git,github,vercel,vscode&perline=5" />
+
+</div>
+
+---
+
+# 🧠 Currently Learning
+
+```yaml
+- Advanced Flutter
+- Clean Architecture
+- State Management
+- Advanced React
+- UI/UX Principles
+- API Integration
+- Firebase
+````
+
+---
+
+# 📱 Featured Projects
+
+<div align="center">
+
+| Project                  | Description                                           |
+| ------------------------ | ----------------------------------------------------- |
+| 🎓 LMS Platform          | Educational platform with courses & progress tracking |
+| 🛒 E-Commerce App        | Responsive shopping application                       |
+| 💬 Chat Application      | Real-time messaging app                               |
+| 📚 Educational Dashboard | Admin dashboard for learning systems                  |
+| 🎨 UI Components Library | Reusable modern UI components                         |
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ananhamdy11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ananhamdy11&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananhamdy11&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Ananhamdy11\&theme=tokyonight\&no-frame=true\&row=1\&column=6)
+
+</div>
+
+---
+
+# 🔥 Contribution Graph
+
+<div align="center">
+
+[![Anan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananhamdy11\&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+![snake gif](https://github.com/Ananhamdy11/Ananhamdy11/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# ✨ Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+# ☕ Support Me
+
+<div align="center">
+
+<a href="https://ko-fi.com/">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+![](https://visitcount.itsvg.in/api?id=Ananhamdy11\&icon=5\&color=12)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile
+
+✨ "Code. Create. Innovate." ✨
+
+</div>
+```
