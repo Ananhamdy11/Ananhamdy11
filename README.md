@@ -124,18 +124,6 @@
 
 ---
 
-# ☕ Support Me
-
-<div align="center">
-
-<a href="https://ko-fi.com/">
-  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-</a>
-
-</div>
-
----
-
 # 👀 Profile Views
 
 <div align="center">
