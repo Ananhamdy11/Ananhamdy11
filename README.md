@@ -30,7 +30,7 @@
 
 # 💜 About Me
 
-```ts
+
 const anan = {
   role: "Frontend Developer",
   location: "Egypt 🇪🇬",
@@ -57,7 +57,7 @@ const anan = {
     "Modern Web Development"
   ]
 }
-```
+
 
 ---
 
@@ -78,11 +78,11 @@ Modern admin dashboard built with React & Next.js.
 
 **Tech**
 
-`React` `Next.js` `TypeScript`
+`React` `Tailwind CSS` `TypeScript`
 
-🔗 Repository
+🔗 Link
 
-https://github.com/Ananhamdy11/YOUR_REPO
+https://dashboard.makanak-app.com/
 
 ---
 
@@ -104,10 +104,9 @@ Educational platform with real-time notifications.
 `Firebase`
 `Socket.IO`
 
-🔗 Repository
+🔗 Link
 
-https://github.com/Ananhamdy11/YOUR_REPO
-
+https://waaiacademy.com/
 ---
 
 # 💻 Tech Stack
