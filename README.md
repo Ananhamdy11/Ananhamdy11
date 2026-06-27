@@ -4,9 +4,9 @@
 
 # 👋 Hi, I'm Anan Hamdy
 
-### Frontend Developer • React • Next.js • TypeScript
+### Frontend & Flutter Developer • React • Next.js • TypeScript
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;Creating+Responsive+User+Interfaces;Always+Learning+New+Technologies;Clean+Code+%26+Great+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Frontend+Developer;Flutter+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+%26+Mobile+Applications;Clean+Code+%26+Great+UX)](https://git.io/typing-svg)
 
 <p>
 
@@ -30,19 +30,40 @@
 
 # 💜 About Me
 
-
 ```ts
 const anan = {
-  role: "Frontend Developer",
+  role: "Frontend & Flutter Developer",
+
   location: "Egypt 🇪🇬",
 
-  technologies: [
-    "React",
-    "Next.js",
-    "TypeScript",
-    "JavaScript",
-    "Flutter"
+  about: [
+    "Frontend Developer specializing in React, Next.js and TypeScript.",
+    "Experienced Flutter Developer building cross-platform mobile applications.",
+    "Passionate about creating responsive, user-friendly interfaces and scalable applications."
   ],
+
+  technologies: {
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "Tailwind CSS"
+    ],
+
+    mobile: [
+      "Flutter",
+      "Dart"
+    ],
+
+    backend: [
+      "Firebase",
+      "REST APIs",
+      "Socket.IO"
+    ]
+  },
 
   currentlyLearning: [
     "Advanced React",
@@ -53,13 +74,12 @@ const anan = {
 
   interests: [
     "UI/UX",
-    "Responsive Design",
-    "REST APIs",
-    "Modern Web Development"
+    "Cross-Platform Development",
+    "Modern Web Technologies",
+    "Mobile App Development"
   ]
 }
 ```
-
 
 ---
 
@@ -67,22 +87,22 @@ const anan = {
 
 ## 🛍️ Makanak Admin Dashboard
 
-Modern admin dashboard built with React & Next.js.
+Modern admin dashboard for managing stores, orders, users, and business operations.
 
-### Highlights
+### Features
 
 - Authentication
 - Dashboard
-- Orders
-- Stores
-- Users
+- Orders Management
+- Stores Management
+- Users Management
 - Responsive Design
 
-**Tech**
+**Tech Stack**
 
-`React` `Tailwind CSS` `TypeScript`
+`React` `Next.js` `TypeScript` `Tailwind CSS`
 
-🔗 Link
+🌐 **Live Demo**
 
 https://dashboard.makanak-app.com/
 
@@ -90,30 +110,32 @@ https://dashboard.makanak-app.com/
 
 ## 📖 Quran Academy
 
-Educational platform with real-time notifications.
+Educational platform with real-time communication and notifications.
 
 ### Features
 
 - Courses
 - Teachers
 - Students
+- Live Notifications
 - Socket.IO
 - Firebase Cloud Messaging
 
-**Tech**
+**Tech Stack**
 
 `React`
 `Firebase`
 `Socket.IO`
 
-🔗 Link
+🌐 **Live Demo**
 
 https://waaiacademy.com/
+
 ---
 
 # 💻 Tech Stack
 
-## Frontend
+## 🌐 Frontend
 
 <p>
 
@@ -123,7 +145,7 @@ https://waaiacademy.com/
 
 ---
 
-## Mobile
+## 📱 Mobile
 
 <p>
 
@@ -133,7 +155,7 @@ https://waaiacademy.com/
 
 ---
 
-## Backend
+## ⚙️ Backend & Services
 
 <p>
 
@@ -143,7 +165,7 @@ https://waaiacademy.com/
 
 ---
 
-## Tools
+## 🛠️ Tools
 
 <p>
 
@@ -156,15 +178,17 @@ https://waaiacademy.com/
 # 💼 Core Skills
 
 - Responsive Web Design
+- Flutter Cross-Platform Development
 - REST API Integration
-- Authentication
-- Firebase
+- Firebase Integration
 - Socket.IO
+- Authentication & Authorization
 - State Management
+- Component-Based Architecture
 - Clean Code
 - Git Workflow
-- Component-Based Architecture
 - UI Implementation
+- Performance Optimization
 
 ---
 
@@ -172,9 +196,10 @@ https://waaiacademy.com/
 
 - Advanced React Patterns
 - Next.js App Router
-- Clean Architecture
-- Performance Optimization
+- Flutter Clean Architecture
 - Software Design Principles
+- Performance Optimization
+- Scalable Frontend Architecture
 
 ---
 
@@ -242,9 +267,9 @@ https://waaiacademy.com/
 
 <div align="center">
 
-### 💜 Thanks for visiting!
+### 💜 Thanks for Visiting!
 
-*"Building modern digital experiences with clean code and thoughtful design."*
+*"Building modern web & mobile experiences with clean code, creativity, and continuous learning."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4B0082,100:8A2BE2"/>
 
