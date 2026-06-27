@@ -31,6 +31,7 @@
 # 💜 About Me
 
 
+```ts
 const anan = {
   role: "Frontend Developer",
   location: "Egypt 🇪🇬",
@@ -57,6 +58,7 @@ const anan = {
     "Modern Web Development"
   ]
 }
+```
 
 
 ---
