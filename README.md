@@ -6,7 +6,7 @@
 
 ### Frontend & Flutter Developer • React • Next.js • TypeScript
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Frontend+Developer;Flutter+Developer;React+%7C+Next.js+Developer;Building+Modern+Web+%26+Mobile+Applications;Clean+Code+%26+Great+UX)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Frontend+Developer;Flutter+Developer;React+Developer;Next.js+Developer;Building+Modern+Web+%26+Mobile+Applications;Clean+Code+%26+Great+UX)](https://git.io/typing-svg)
 
 <p>
 
@@ -30,79 +30,58 @@
 
 # 💜 About Me
 
-```ts
-const anan = {
-  role: "Frontend & Flutter Developer",
+```text
+👩‍💻 Frontend & Flutter Developer
+🏢 Frontend Developer @ NeoVidia Tech
+📍 Based in Egypt 🇪🇬
 
-  location: "Egypt 🇪🇬",
+⚛️ React • Next.js • TypeScript
+📱 Flutter • Dart
+🔥 Firebase • REST APIs • Socket.IO
 
-  about: [
-    "Frontend Developer specializing in React, Next.js and TypeScript.",
-    "Experienced Flutter Developer building cross-platform mobile applications.",
-    "Passionate about creating responsive, user-friendly interfaces and scalable applications."
-  ],
+💡 Passionate about building scalable,
+responsive and user-friendly applications.
 
-  technologies: {
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "Tailwind CSS"
-    ],
-
-    mobile: [
-      "Flutter",
-      "Dart"
-    ],
-
-    backend: [
-      "Firebase",
-      "REST APIs",
-      "Socket.IO"
-    ]
-  },
-
-  currentlyLearning: [
-    "Advanced React",
-    "Next.js App Router",
-    "Clean Architecture",
-    "Performance Optimization"
-  ],
-
-  interests: [
-    "UI/UX",
-    "Cross-Platform Development",
-    "Modern Web Technologies",
-    "Mobile App Development"
-  ]
-}
+📚 Currently exploring Frontend Architecture,
+Advanced React Patterns and Performance Optimization.
 ```
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Professional Experience
+
+Currently working as a **Frontend Developer** at **NeoVidia Tech**, where I build modern, scalable web applications and collaborate closely with backend developers, UI/UX designers, and product teams.
+
+The projects below were developed as part of my professional work and are currently used in production.
+
+---
+
+# 🚀 Professional Projects
 
 ## 🛍️ Makanak Admin Dashboard
 
 Modern admin dashboard for managing stores, orders, users, and business operations.
 
-### Features
+### My Contributions
 
-- Authentication
-- Dashboard
-- Orders Management
-- Stores Management
-- Users Management
-- Responsive Design
+- Developed responsive interfaces using React & Next.js.
+- Built reusable UI components.
+- Integrated REST APIs.
+- Implemented Authentication & Authorization.
+- Built Orders Management.
+- Built Stores Management.
+- Built Users Management.
+- Collaborated with backend developers and UI/UX designers.
+- Improved performance and user experience.
 
-**Tech Stack**
+### Tech Stack
 
-`React` `Next.js` `TypeScript` `Tailwind CSS`
+`React`
+`Next.js`
+`TypeScript`
+`Tailwind CSS`
 
-🌐 **Live Demo**
+🌐 Live Demo
 
 https://dashboard.makanak-app.com/
 
@@ -110,26 +89,53 @@ https://dashboard.makanak-app.com/
 
 ## 📖 Quran Academy
 
-Educational platform with real-time communication and notifications.
+Educational platform for online Quran learning with real-time communication.
 
-### Features
+### My Contributions
 
-- Courses
-- Teachers
-- Students
-- Live Notifications
-- Socket.IO
-- Firebase Cloud Messaging
+- Developed responsive frontend pages.
+- Integrated REST APIs.
+- Implemented Firebase Cloud Messaging (FCM).
+- Built real-time notifications using Socket.IO.
+- Developed Teachers Dashboard.
+- Developed Students Dashboard.
+- Improved application performance.
+- Collaborated with backend team.
 
-**Tech Stack**
+### Tech Stack
 
 `React`
 `Firebase`
 `Socket.IO`
 
-🌐 **Live Demo**
+🌐 Live Demo
 
 https://waaiacademy.com/
+
+---
+## 🚀 Jupiter Egypt
+
+Production-ready educational platform for teaching Programming, Artificial Intelligence, and STEM to students through an interactive learning experience. 
+
+### My Contributions
+
+- Developed and maintained the frontend application.
+- Built reusable UI components following best practices.
+- Implemented responsive pages with pixel-perfect designs.
+- Integrated backend APIs.
+- Improved application performance and user experience.
+- Collaborated with UI/UX designers and backend engineers throughout the development lifecycle.
+
+### Tech Stack
+
+`React`
+`React Quuery`
+`TypeScript`
+`Tailwind CSS`
+
+🌐 **Live Demo**
+
+https://jupiter-egy.com/
 
 ---
 
@@ -138,9 +144,7 @@ https://waaiacademy.com/
 ## 🌐 Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind"/>
-
 </p>
 
 ---
@@ -148,9 +152,7 @@ https://waaiacademy.com/
 ## 📱 Mobile
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=flutter,dart"/>
-
 </p>
 
 ---
@@ -158,9 +160,7 @@ https://waaiacademy.com/
 ## ⚙️ Backend & Services
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=nodejs,firebase"/>
-
 </p>
 
 ---
@@ -168,27 +168,30 @@ https://waaiacademy.com/
 ## 🛠️ Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,postman,vscode"/>
-
 </p>
 
 ---
 
 # 💼 Core Skills
 
-- Responsive Web Design
-- Flutter Cross-Platform Development
+- React.js
+- Next.js
+- TypeScript
+- Flutter
+- Dart
+- Tailwind CSS
 - REST API Integration
-- Firebase Integration
+- Firebase
 - Socket.IO
 - Authentication & Authorization
-- State Management
+- Responsive Design
 - Component-Based Architecture
-- Clean Code
-- Git Workflow
-- UI Implementation
+- Git & GitHub
 - Performance Optimization
+- UI Implementation
+- State Management
+- Clean Code
 
 ---
 
@@ -198,8 +201,8 @@ https://waaiacademy.com/
 - Next.js App Router
 - Flutter Clean Architecture
 - Software Design Principles
-- Performance Optimization
 - Scalable Frontend Architecture
+- Performance Optimization
 
 ---
 
