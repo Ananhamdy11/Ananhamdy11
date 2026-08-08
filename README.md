@@ -58,35 +58,6 @@ The projects below were developed as part of my professional work and are curren
 
 # 🚀 Professional Projects
 
-## 🛍️ Makanak Admin Dashboard
-
-Modern admin dashboard for managing stores, orders, users, and business operations.
-
-### My Contributions
-
-- Developed responsive interfaces using React & Next.js.
-- Built reusable UI components.
-- Integrated REST APIs.
-- Implemented Authentication & Authorization.
-- Built Orders Management.
-- Built Stores Management.
-- Built Users Management.
-- Collaborated with backend developers and UI/UX designers.
-- Improved performance and user experience.
-
-### Tech Stack
-
-`React`
-`Next.js`
-`TypeScript`
-`Tailwind CSS`
-
-🌐 Live Demo
-
-https://dashboard.makanak-app.com/
-
----
-
 ## 📖 Quran Academy
 
 Educational platform for online Quran learning with real-time communication.
